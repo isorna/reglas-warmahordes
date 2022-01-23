@@ -1,6 +1,8 @@
 {
 	"name": "Reglas Warmahordes",
 	"short_name": "Warmahordes",
+  "scope": "./",
+  "start_url": "./index.html",
 	"icons": [
 			{
 					"src": "/img/android-chrome-192x192.png",
