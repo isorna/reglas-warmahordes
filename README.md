@@ -45,3 +45,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ````
 $ npm run docusaurus docs:version 1.0
 ````
+
+### Deploy with Firebase CI and Github Actions
+
+* [Deploy to live & preview channels via GitHub pull requests](https://firebase.google.com/docs/hosting/github-integration?authuser=0)
