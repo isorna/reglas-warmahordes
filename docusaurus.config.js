@@ -51,9 +51,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'tutorial',
+            docId: 'reglas-basicas',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Reglas básicas',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -73,8 +73,8 @@ const config = {
             title: 'Reglas de Warmachine & Hordes',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/tutorial',
+                label: 'Reglas básicas',
+                to: '/docs/reglas-basicas',
               },
             ],
           },
