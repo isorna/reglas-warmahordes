@@ -56,11 +56,11 @@ const config = {
             label: 'Reglas básicas',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/isorna/reglas-warmahordes',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/isorna/reglas-warmahordes',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
 					// {
 					// 	type: 'docsVersionDropdown',
 					// },
