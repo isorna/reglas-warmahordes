@@ -56,22 +56,22 @@ sidebar_position: 10
 [Chain Weapon]: /img/card-icons/48px-Chain_Weapon_symbol.jpg
 [CMA]: /img/card-icons/48px-CMA_symbol.jpg
 [Cold DAM]: /img/card-icons/48px-Cold_DAM_symbol.jpg
-[Cold Imm]: /img/card-icons/48px-Cold_Imm_symbol.jpg
+[Cold Imm]: /img/card-icons/48px-Cold_IMM_symbol.jpg
 [Construct]: /img/card-icons/48px-Construct_symbol.jpg
 [Corrosion CONT]: /img/card-icons/48px-Corrosion_CONT_symbol.jpg
 [Corrosion CRIT]: /img/card-icons/48px-Corrosion_CRIT_symbol.jpg
 [Corrosion DAM]: /img/card-icons/48px-Corrosion_DAM_symbol.jpg
-[Corrosion IMM]: /img/card-icons/48px-Corrosion_Imm_symbol.jpg
+[Corrosion IMM]: /img/card-icons/48px-Corrosion_IMM_symbol.jpg
 [CRA]: /img/card-icons/48px-CRA_symbol.jpg
 [Disruption CRIT]: /img/card-icons/48px-Disruption_CRIT_symbol.jpg
 [Disruption]: /img/card-icons/48px-Disruption_symbol.jpg
-[Electric DAM]: /img/card-icons/48px-Electricity_dam_symbol.jpg
-[Electric IMM]: /img/card-icons/48px-Electricity_Imm_symbol.jpg
+[Electric DAM]: /img/card-icons/48px-Electricity_DAM_symbol.jpg
+[Electric IMM]: /img/card-icons/48px-Electricity_IMM_symbol.jpg
 [Eyeless Sight]: /img/card-icons/48px-Eyeless_Sight_symbol.jpg
 [Fire CONT]: /img/card-icons/48px-Fire_CONT_symbol.jpg
 [Fire CRIT]: /img/card-icons/48px-Fire_CRIT_symbol.jpg
 [Fire DAM]: /img/card-icons/48px-Fire_DAM_symbol.jpg
-[Fire IMM]: /img/card-icons/48px-Fire_Imm_symbol.jpg
+[Fire IMM]: /img/card-icons/48px-Fire_IMM_symbol.jpg
 [Flight]: /img/card-icons/48px-Flight_symbol.jpg
 [Gunfighter]: /img/card-icons/48px-Gunfighter_symbol.jpg
 [Incorporeal]: /img/card-icons/48px-Incorporeal_symbol.jpg
