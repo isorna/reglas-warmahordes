@@ -26,3 +26,9 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+img[src|="/img/card-icons/48px"] {
+	height: 1.5em;
+	line-height: 1em;
+	vertical-align: bottom;
+}

@@ -40,12 +40,17 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
-### Release new docs version
+### Release new docs version
 
 ````
 $ npm run docusaurus docs:version 1.0
 ````
 
-### Deploy with Firebase CI and Github Actions
+### Deploy with Firebase CI and Github Actions
 
 * [Deploy to live & preview channels via GitHub pull requests](https://firebase.google.com/docs/hosting/github-integration?authuser=0)
+
+### Markdown Resources
+
+* [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+* [Warmachine University](https://warmachineuniversity.com/mw/index.php/101_-_Card_Icons)

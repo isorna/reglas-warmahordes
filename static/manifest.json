@@ -8,6 +8,8 @@
 	"theme_color": "#25c2a0",
 	"background_color": "#25c2a0",
 	"display": "standalone",
+	"orientation": "portrait-primary",
+	"iarc_rating_id": "",
 	"icons": [
 			{
 					"src": "/img/android-chrome-192x192.png",
@@ -19,5 +21,8 @@
 					"sizes": "512x512",
 					"type": "image/png"
 			}
-	]
+	],
+	"related_applications": [],
+	"screenshots": [],
+	"shortcuts": []
 }
