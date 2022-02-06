@@ -121,6 +121,8 @@ Para determinar una regla que afecta a modelos que están a una distancia concre
 
 :::note Dentro y completamente dentro
 El Esclavo bilioso (Bile Thrall) A no está dentro del área sombreada. Los Esclavos biliosos B y E están dentro del área y los Esclavos biliosos C y D están completamente dentro.
+
+![](/img/examples/within-diagram.png)
 :::
 
 [active-player]: /docs/terminos#active-player
