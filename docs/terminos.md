@@ -33,11 +33,11 @@ TBD
 
 TBD
 
-###### Boost/Boosted
+###### Battle Engines
 
 TBD
 
-###### Dodge
+###### Boost/Boosted
 
 TBD
 
@@ -65,7 +65,7 @@ TBD
 
 TBD
 
-###### Living
+###### Living models
 
 TBD
 
@@ -90,6 +90,14 @@ TBD
 TBD
 
 ###### Triggered
+
+TBD
+
+###### Undead models
+
+TBD
+
+###### Warrior models
 
 TBD
 

@@ -11,27 +11,27 @@ Esta sección cubre los términos del juego de WARMACHINE, las relaciones entre 
 
 Cuando estas reglas definan un término del juego, aparecerá en **negrita**.
 
-En aras de ser concisos, la frase «modelo con la regla especial» a veces se reemplaza por el nombre de la regla. Es decir, un modelo con la ventaja "Supervisor de jacks ![Supervisor de Jacks][Jack Marshal] Supervisor de Jacks" ([**Jack Marshall**][jack-marshall]) se considera un supervisor de warjacks, y un modelo con la regla "Hechicero" ([**Spellcaster**][spellcaster]) se considera un hechicero. Igualmente, las frases «ataque con el arma » y «ataque otorgado por la regla especial » se pueden reemplazar por la expresión «ataque ». Por ejemplo, la dote de Caine, Vorágine, le permite hacer varios ataques con sus pistolas Spellstorm. Nos referiremos a estos ataques como «ataques de pistola Spellstorm» en el texto de Vorágine. De igual manera, los ataques que un warjack al arrollar realiza contra los modelos pisoteados se llaman «ataques de arrollar» ([**trample attacks**][trample-attacks]).
+En aras de ser concisos, la frase "modelo con la regla especial" a veces se reemplaza por el nombre de la regla. Es decir, un modelo con la ventaja "Supervisor de jacks" ![Supervisor de Jacks][Jack Marshal] ([**Jack Marshall**][jack-marshall]) se considera un supervisor de warjacks, y un modelo con la regla "Hechicero" ([**Spellcaster**][spellcaster]) se considera un hechicero. Igualmente, las frases "ataque con el arma" y "ataque otorgado por la regla especial" se pueden reemplazar por la expresión "ataque". Por ejemplo, la dote de Caine, Vorágine, le permite hacer varios ataques con sus pistolas Spellstorm. Nos referiremos a estos ataques como "ataques de pistola Spellstorm" en el texto de Vorágine. De igual manera, los ataques que un warjack al arrollar realiza contra los modelos pisoteados se llaman "ataques de arrollar" ([**trample attacks**][trample-attacks]).
 
 Todos los modelos que controlas se consideran modelos amigos ([**friendly models**][friendly-models]). Los modelos controlados por tu oponente se consideran modelos enemigos ([**enemy models**][enemy-models]).
 
-Las reglas de los modelos están escritas como si se dirigiesen al controlador actual del modelo. Cuando las reglas de un modelo se refieren a «tú» o «tus», se refieren al jugador que controla actualmente al modelo. En las reglas de un modelo, «este modelo» siempre se refiere al modelo que tiene la regla.
+Las reglas de los modelos están escritas como si se dirigiesen al controlador actual del modelo. Cuando las reglas de un modelo se refieren a "tú" o "tus", se refieren al jugador que controla actualmente al modelo. En las reglas de un modelo, "este modelo" siempre se refiere al modelo que tiene la regla.
 
-Las variadas naciones y fuerzas del interior de los Reinos de Hierro se representan mediante las diferentes facciones. Los ejércitos están compuestos por modelos de una misma facción y también pueden incluir Mercenarios que trabajarán para esa facción. Cuando una regla haga referencia a «Facción» se refiere a la facción del modelo que tiene la regla. Por ejemplo, en un modelo Mercenario, «*warjack* amigo de la facción» quiere decir «*warjack* amigo Mercenario», mientras que ese mismo texto en un modelo de Cygnar querrá decir «*warjack* amigo de Cygnar».
+Las variadas naciones y fuerzas del interior de los Reinos de Hierro se representan mediante las diferentes facciones. Los ejércitos están compuestos por modelos de una misma facción y también pueden incluir Mercenarios que trabajarán para esa facción. Cuando una regla haga referencia a "Facción" se refiere a la facción del modelo que tiene la regla. Por ejemplo, en un modelo Mercenario, "*warjack* amigo de la facción" quiere decir "*warjack* amigo Mercenario", mientras que ese mismo texto en un modelo de Cygnar querrá decir "*warjack* amigo de Cygnar".
 
 Los nombres de los modelos y unidades de WARMACHINE aparecen en dos líneas que describen cómo se llama el modelo y qué tipo de modelo es. Todos los modelos también tienen un nombre que aparece en su perfil de estadísticas. Las reglas de WARMACHINE pueden referirse a un modelo por cualquiera de estos identificadores. Además, un modelo puede identificarse por sus propias reglas; sin embargo, para que esto se aplique a una unidad, todos los modelos de la unidad deben tener la regla que los identifique como tal.
 
 :::tip EJEMPLO
-Una unidad de Caballeros Ejemplares (Knight Exemplars) tiene el nombre «Caballeros Ejemplares» (primera línea) y es una
-«Unidad del Protectorado» (segunda línea). Podemos referirnos específicamente a esta unidad como Caballeros Ejemplares, como una unidad del Protectorado, como una unidad o como Ejemplares.
+Una unidad de Caballeros Ejemplares (Knight Exemplars) tiene el nombre "Caballeros Ejemplares" (primera línea) y es una
+"Unidad del Protectorado" (segunda línea). Podemos referirnos específicamente a esta unidad como Caballeros Ejemplares, como una unidad del Protectorado, como una unidad o como Ejemplares.
 :::
 
 :::tip EJEMPLO
-Gius y Casian son la Guardia de honor del Visigodo Juviah Rhoven y forman parte de esta unidad de personajes. Estos modelos tienen una regla que no es compartida por el Visigodo Rhoven y que indica que son modelos Ejemplares (Exemplars). Por ello, Gius y Casian se verán afectados por las reglas especiales que afecten a los Ejemplares, pero Rhoven no. Es más, como la regla Ejemplar no se comparte entre todos los modelos de la unidad y la palabra «Ejemplar» no aparece en ninguna línea del nombre de la unidad, la unidad no se considera una unidad Ejemplar.
+Gius y Casian son la Guardia de honor del Visigodo Juviah Rhoven y forman parte de esta unidad de personajes. Estos modelos tienen una regla que no es compartida por el Visigodo Rhoven y que indica que son modelos Ejemplares (Exemplars). Por ello, Gius y Casian se verán afectados por las reglas especiales que afecten a los Ejemplares, pero Rhoven no. Es más, como la regla Ejemplar no se comparte entre todos los modelos de la unidad y la palabra "Ejemplar" no aparece en ninguna línea del nombre de la unidad, la unidad no se considera una unidad Ejemplar.
 :::
 
 :::tip EJEMPLO
-Los Cazadores Grim son una unidad de Warlocks formada por Grim Angus y sus dos colegas cazadores, Muggs y Krump. Grim tiene una regla que lo identifica como modelo Trollkin, mientras que Muggs y Krump tienen una regla que dice que son Pigmeos (Pygs). Como resultado, Grim se verá afectado por las reglas especiales que afectan a los Trollkins, y Muggs y Krump se verán afectados por las reglas especiales que afectan a los Pigmeos. Sin embargo, ni la regla Trollkin ni la regla Pigmeo se comparten entre todos los modelos de la unidad, por lo que no se considera que la unidad sea una unidad Trollkin ni una unidad de Pigmeos.
+Los Cazadores Grim son una unidad de Warlocks formada por Grim Angus y sus dos colegas cazadores, Muggs y Krump. Grim tiene una regla que lo identifica como modelo Trollkin, mientras que Muggs y Krump tienen una regla que dice que son Pigmeos (**Pygs**). Como resultado, Grim se verá afectado por las reglas especiales que afectan a los Trollkins, y Muggs y Krump se verán afectados por las reglas especiales que afectan a los Pigmeos. Sin embargo, ni la regla Trollkin ni la regla Pigmeo se comparten entre todos los modelos de la unidad, por lo que no se considera que la unidad sea una unidad Trollkin ni una unidad de Pigmeos.
 :::
 
 :::tip EJEMPLO
@@ -39,10 +39,10 @@ El Capitán Jonas Murdoch es un Oficial superior ([**Ranking Officer**][ranking-
 :::
 
 :::tip EJEMPLO
-Las unidades de Mecaniesclavos (Mechanithralls) tienen la ventaja No muerto ![No muerto][Undead] y es, por tanto, una unidad no muerta.
+Las unidades de Mecaniesclavos (**Mechanithralls**) tienen la ventaja "No muerto" ![No muerto][Undead SKILL] ([**Undead**][undead-models]) y es, por tanto, una unidad no muerta.
 :::
 
-A menos que se especifique lo contrario, cuando las reglas de un modelo hagan referencia a otro modelo a través de su nombre, se asume que el modelo al que se hace referencia se considera un modelo amigo. Por ejemplo, el modelo Mercenario Rutger Shaw tiene la regla Socio (**Partner**), que otorga la regla especial Esquivar ([**Dodge**][dodge]) al modelo Mercenario Taryn di la Rovissi mientras esté dentro del alcance de mando de Rutger. Taryn solo gana Esquivar si el jugador que la controla también controla a Rutger. Los modelos Rutger enemigos no pueden otorgar Esquivar a Taryn.
+A menos que se especifique lo contrario, cuando las reglas de un modelo hagan referencia a otro modelo a través de su nombre, se asume que el modelo al que se hace referencia se considera un modelo amigo. Por ejemplo, el modelo Mercenario Rutger Shaw tiene la regla Socio (**Partner**), que otorga la regla especial Esquivar (**Dodge**) al modelo Mercenario Taryn di la Rovissi mientras esté dentro del alcance de mando de Rutger. Taryn solo gana Esquivar si el jugador que la controla también controla a Rutger. Los modelos Rutger enemigos no pueden otorgar Esquivar a Taryn.
 
 ## Prioridad de las reglas
 
@@ -54,12 +54,12 @@ Cuando apliquen, las reglas de los modelos individuales tienen preferencia sobre
 Un hechizo que otorgue Sudario oscuro (**Dark Shroud**) no es acumulativo con esa misma regla de los Guerreros ruina (**Bane Warriors**), ya que comparten nombre.
 :::
 
-Sin embargo, efectos con diferente nombre son acumulativos, incluso si aplican el mismo modificador. Por ejemplo, un modelo sin Inmunidad: Fuego ![Inmunidad al fuego][Fire IMM] que esté dentro de un terreno de nube de ascuas ardientes sufre -2 a sus tiradas de ataque. Velo pálido (**Ashen Veil**) también reduce en 2 las tiradas de ataque, pero tiene un nombre distinto, así que un modelo afectado por ambos efectos sufriría -4 a sus tiradas de ataque.
+Sin embargo, efectos con diferente nombre son acumulativos, incluso si aplican el mismo modificador. Por ejemplo, un modelo sin Inmunidad: Fuego ![Inmunidad al fuego][Fire IMM] (**Immunity: Fire**) que esté dentro de un terreno de nube de ascuas ardientes sufre -2 a sus tiradas de ataque. Velo pálido (**Ashen Veil**) también reduce en 2 las tiradas de ataque, pero tiene un nombre distinto, así que un modelo afectado por ambos efectos sufriría -4 a sus tiradas de ataque.
 
 Es posible que, ocasionalmente, dos reglas especiales entren en conflicto. Aplica las siguientes directrices, en este orden, para resolver las interacciones entre reglas especiales:
 
 * Si una regla se refiere específicamente a su interacción con otra regla, síguela.
-* Las reglas especiales que dicen que algo «no puede» ocurrir sobrescriben a las reglas que dicen que la misma acción «puede» o «debe» ocurrir. (Trata las reglas que dirigen o describen acciones o circunstancias como si usasen «debe». Algunos ejemplos serían «Gana un dado adicional», «Los modelos derribados se levantan», o, por ejemplo, «Este modelo gana cobertura»).
+* Las reglas especiales que dicen que algo "no puede" ocurrir sobrescriben a las reglas que dicen que la misma acción "puede" o "debe" ocurrir. (Trata las reglas que dirigen o describen acciones o circunstancias como si usasen "debe". Algunos ejemplos serían "Gana un dado adicional", "Los modelos derribados se levantan", o, por ejemplo, "Este modelo gana cobertura").
 
 :::tip EJEMPLO
 Un modelo que tiene una regla que indica que no puede ser derribado se ve afectado por una acción que dice que es derribado. Como las reglas no se mencionan específicamente la una a la otra, sigue la segunda directriz para resolver la interacción: el modelo no es derribado.
@@ -69,15 +69,15 @@ Un modelo que tiene una regla que indica que no puede ser derribado se ve afecta
 
 Si un modelo está realizando un ataque, su controlador es el jugador activo ([**active player**][active-player]). Si ningún modelo está realizando un ataque, el jugador activo es el jugador cuyo turno esté en marcha.
 
-En ambos casos, el otro jugador se considera el jugador inactivo ([**inactive player**][inactive-player]). Cuando se resuelvan efectos que ocurren «después de resolver el ataque», el jugador activo y el inactivo mantienen sus papeles durante el ataque hasta que todos los efectos disparados ([**triggered**][triggered]) por el ataque (ver a continuación) se resuelvan.
+En ambos casos, el otro jugador se considera el jugador inactivo ([**inactive player**][inactive-player]). Cuando se resuelvan efectos que ocurren "después de resolver el ataque", el jugador activo y el inactivo mantienen sus papeles durante el ataque hasta que todos los efectos disparados ([**triggered**][triggered]) por el ataque (ver a continuación) se resuelvan.
 
 ## Efectos disparados o desencadenados
 
 Algunas reglas describen efectos condicionales a los que nos referiremos también como efectos disparados o desencadenados (trigger/triggered). Normalmente, estas reglas describirán la condición que hará que el efecto se dispare, el momento en el que se desencadena, el efecto resultante y el momento de la resolución de dicho efecto.
 
-Si no se describe ningún momento específico, el efecto se resuelve en cuanto se cumpla la condición que lo dispara o desencadena. Si un efecto disparado contiene una parte opcional que indica que el jugador «puede» hacer algo, el jugador puede elegir no resolver esa parte del efecto, pero se seguirá contando como que el efecto disparado se ha resuelto.
+Si no se describe ningún momento específico, el efecto se resuelve en cuanto se cumpla la condición que lo dispara o desencadena. Si un efecto disparado contiene una parte opcional que indica que el jugador "puede" hacer algo, el jugador puede elegir no resolver esa parte del efecto, pero se seguirá contando como que el efecto disparado se ha resuelto.
 
-Cuando dos o más reglas especiales se desencadenen a la vez, como «al impactar con un ataque» o «al terminar una activación», el jugador activo elige el orden en el que se resuelven las reglas especiales de sus modelos y las resuelve; luego, el jugador inactivo elige el orden en el que se resuelven las reglas especiales de sus modelos y las resuelve.
+Cuando dos o más reglas especiales se desencadenen a la vez, como "al impactar con un ataque" o "al terminar una activación", el jugador activo elige el orden en el que se resuelven las reglas especiales de sus modelos y las resuelve; luego, el jugador inactivo elige el orden en el que se resuelven las reglas especiales de sus modelos y las resuelve.
 
 Algunos efectos provocan que ciertas condiciones de un ataque (como si impacta o no, o qué modelos son incapacitados o destruidos) cambien durante la resolución. Cuando resuelvas efectos disparados, vuelve a comprobar las condiciones que los hayan disparado cada vez que resuelvas una regla especial. Si la condición deja de cumplirse, el efecto no se resolverá. De igual forma, si un efecto de un modelo provoca que una condición de otro modelo cambie, los efectos desencadenados por esa condición se resolverán para ambos modelos.
 
@@ -87,10 +87,10 @@ Un Esclavo abotargado (**Bloat Thrall**) tiene la regla Estallido mortal (**Deat
 
 ## Reglas especiales "en cualquier momento"
 
-Los hechizos, las dotes y las demás reglas especiales que dicen que pueden usarse «en cualquier momento durante la activación de este modelo» pueden usarse antes de mover, después de mover, antes o después de atacar, pero no mientras mueve, ataca ni resuelve otro efecto disparado. Un modelo no puede interrumpir su movimiento o un ataque para usar una de estas reglas especiales.
+Los hechizos, las dotes y las demás reglas especiales que dicen que pueden usarse "en cualquier momento durante la activación de este modelo" pueden usarse antes de mover, después de mover, antes o después de atacar, pero no mientras mueve, ataca ni resuelve otro efecto disparado. Un modelo no puede interrumpir su movimiento o un ataque para usar una de estas reglas especiales.
 
 :::tip EJEMPLO
-Los Warlocks y los Warcasters pueden lanzar hechizos «en cualquier momento durante su activación». Esto quiere decir que Goreshade, el bastardo, puede lanzar un hechizo antes de mover, después de mover, antes de atacar, después de atacar, antes de usar su dote y después de colocar a todos los modelos de su dote. Sin embargo, no puede lanzar un hechizo mientras está moviendo, atacando o utilizando su dote para colocar en juego Guerreros ruina (**Bane Warriors**).
+Los Warlocks y los Warcasters pueden lanzar hechizos "en cualquier momento durante su activación". Esto quiere decir que Goreshade, el bastardo, puede lanzar un hechizo antes de mover, después de mover, antes de atacar, después de atacar, antes de usar su dote y después de colocar a todos los modelos de su dote. Sin embargo, no puede lanzar un hechizo mientras está moviendo, atacando o utilizando su dote para colocar en juego Guerreros ruina (**Bane Warriors**).
 :::
 
 ## Deportividad y compartir información
@@ -125,7 +125,6 @@ El Esclavo bilioso (Bile Thrall) A no está dentro del área sombreada. Los Escl
 
 [active-player]: /docs/terminos#active-player
 [completely-within]: /docs/terminos#completely-within
-[dodge]: /docs/terminos#dodge
 [enemy-models]: /docs/terminos#enemy-models
 [friendly-models]: /docs/terminos#friendly-models
 [inactive-player]: /docs/terminos#inactive-player
@@ -135,6 +134,7 @@ El Esclavo bilioso (Bile Thrall) A no está dentro del área sombreada. Los Escl
 [tough]: /docs/terminos#tough
 [trample-attacks]: /docs/terminos#trample-attacks
 [triggered]: /docs/terminos#triggered
+[undead-models]: /docs/terminos#undead-models
 [within]: /docs/terminos#within
 
 [Advance Deployment]: /img/card-icons/48px-AD_symbol.jpg
@@ -179,5 +179,5 @@ El Esclavo bilioso (Bile Thrall) A no está dentro del área sombreada. Los Escl
 [Stealth]: /img/card-icons/48px-Stealth_symbol.jpg
 [Melee Weapon]: /img/card-icons/48px-Sword_icon.jpg
 [Tough SKILL]: /img/card-icons/48px-Tough_symbol.jpg
-[Undead]: /img/card-icons/48px-Undead_symbol.jpg
+[Undead SKILL]: /img/card-icons/48px-Undead_symbol.jpg
 [Weapon Master]: /img/card-icons/48px-Weapon_Master_symbol.jpg

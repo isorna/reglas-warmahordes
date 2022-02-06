@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Tipos de modelos, estadísticas y capacidad para hacer daño
 
-En la mesa de juego encontrarás a cada combatiente de WARMACHINE representado por una detallada miniatura con una pose de acción a la que nos referiremos por el nombre de modelo. Los modelos básicos ([**basic models**][basic-models]) son: *Warcaster*, *warjacks*, *Warlocks*, *warbeasts*, soldados, solos, estructuras y máquinas de batalla (battle engines). Los soldados, los solos y los Warcaster y Warlocks que no manejen máquinas de batalla pertenecen a la categoría de guerreros (warriors). Todos los modelos se consideran que están vivos ([**living**][living]) a menos que se especifique lo contrario.
+En la mesa de juego encontrarás a cada combatiente de WARMACHINE representado por una detallada miniatura con una pose de acción a la que nos referiremos por el nombre de modelo. Los modelos básicos ([**basic models**][basic-models]) son: *Warcaster*, *warjacks*, *Warlocks*, *warbeasts*, soldados, solos, estructuras y máquinas de batalla ([**battle engines**][battle-engines]). Los soldados, los solos y los Warcaster y Warlocks que no manejen máquinas de batalla pertenecen a la categoría de guerreros ([**warrior models**][warrior-models]). Todos los modelos se consideran que están vivos ([**living models**][living-models]) a menos que se especifique lo contrario.
 
 ### Modelos independientes
 
@@ -33,7 +33,7 @@ Un *warjack* es una máquina propulsada a vapor cuyo único fin es luchar. Equip
 
 La conexión telepática que existe entre un *Warcaster* y sus *warjacks* es frágil. Cuando el córtex de un warjack queda inutilizado, no puede recibir puntos de foco. En el peor de los casos, una vez que un Warcaster cae en combate o se ve incapacitado, la conexión telepática se rompe. Si un warjack se retroalimenta de energías mágicas descontroladas, el córtex de este colapsa y lo vuelve una máquina inservible.
 
-Los *warjacks* se clasifican según al tamaño de sus bases: un warjack ligero (*Light* warjack) cuenta con una base mediana (medium base) de 40 mm, un warjack pesado (*Heavy* warjack) presenta una base grande (large base) de 50 mm y un warjack colosal (Colossal) tiene una base enorme (huge base) de 120 mm. Cada warjack se considera un modelo independiente, aunque este haya sido asignado a un grupo de batalla concreto. Todos cuentan con la ventaja  Construcción ![Construcción][Construct SKILL] (*Construct*) y no se consideran modelos vivos.
+Los *warjacks* se clasifican según al tamaño de sus bases: un warjack ligero (**Light** warjack) cuenta con una base mediana (medium base) de 40 mm, un warjack pesado (**Heavy** warjack) presenta una base grande (large base) de 50 mm y un warjack colosal (Colossal) tiene una base enorme (huge base) de 120 mm. Cada warjack se considera un modelo independiente, aunque este haya sido asignado a un grupo de batalla concreto. Todos cuentan con la ventaja  Construcción ![Construcción][Construct SKILL] (**Construct**) y no se consideran modelos vivos.
 
 Un modelo de tipo *warjack* está sujeto a una serie de reglas comunes a todos los *warjacks*, no listadas en las estadísticas de las cartas. Las reglas se encuentran en [Reglas especiales de *Warjacks*](/docs/reglas-especiales-de-warjacks).
 
@@ -51,21 +51,21 @@ Las bestias de guerra o *warbeasts* son valientes criatura sobre el campo de bat
 
 A ojos de las regiones civilizadas, las bestias de guerra son abominables monstruos capaces de masacrar y despedazar a sus enemigos mejor armados. Muchas de las *warbeasts* potencian sus ya formidables capacidades naturales incorporando armaduras pesadas y las mejores armas a su alcance, con las que se han entrenado duramente para enfrentarse lo más preparadas posible a guerreros y otros enemigos. Aunque puedan actuar de forma autónoma, el control que un Warlock ejerce sobre ellas anulará su individualidad excepto para situaciones de frenesí ([**Frenzy**][frenzy]).
 
-Las bestias de guerra se clasifican según el tamaño de sus bases: una warbeast menor (*Lesser* warbeast) cuenta con una base pequeña (small base) de 30 mm, una bestia de guerra ligera (*Light* warbeast) presenta una base mediana (medium base) de 40 mm, una bestia de guerra pesada (*Heavy* warbeast) tiene un base grande (large base) de 50 mm y una warbeast gargantúa (Gargantuan) cuenta con una base enorme (huge base) de 120 mm.
+Las bestias de guerra se clasifican según el tamaño de sus bases: una warbeast menor (**Lesser** warbeast) cuenta con una base pequeña (small base) de 30 mm, una bestia de guerra ligera (**Light** warbeast) presenta una base mediana (medium base) de 40 mm, una bestia de guerra pesada (**Heavy** warbeast) tiene un base grande (large base) de 50 mm y una warbeast gargantúa (Gargantuan) cuenta con una base enorme (huge base) de 120 mm.
 
 Cada bestia de guerra es un modelo independiente, aunque esta haya sido asignada a un grupo de batalla concreto. Un modelo del tipo *warbeast* posee reglas comunes a todas las bestias de guerra, no listadas en las estadísticas de las cartas. Las reglas se encuentran en [Reglas especiales de *Warbeasts*](/docs/reglas-especiales-de-warbeasts).
 
 ### Solos
 
-Los solos (solo) son modelos independientes que actúan y atacan en solitario; entre ellos se encuentran asesinos y francotiradores, entre otros.
+Los solos (**solo**) son modelos independientes que actúan y atacan en solitario; entre ellos se encuentran asesinos y francotiradores, entre otros.
 
 ### Estructuras
 
-Las estructuras (structures) representan fortificaciones inmóviles sobre el campo de batalla. Las estructuras son modelos independientes con bases enormes (120 mm). Las estructuras están sujetas a una serie de reglas especiales, listadas en la p. 85. La mayoría de las estructuras cuentan con la ventaja  Construcción ![Construcción][Construct SKILL] (*Construct*) y no se consideran modelos vivos.
+Las estructuras (structures) representan fortificaciones inmóviles sobre el campo de batalla. Las estructuras son modelos independientes con bases enormes (120 mm). Las estructuras están sujetas a una serie de reglas especiales, listadas en la p. 85. La mayoría de las estructuras cuentan con la ventaja  Construcción ![Construcción][Construct SKILL] (**Construct**) y no se consideran modelos vivos.
 
 ### Máquinas de batalla
 
-Las máquinas de batalla (battle engines) incluyen potentes armas creadas para fines bélicos. Son modelos independientes que se alzan sobre bases enormes (120 mm), pero no se consideran modelos guerreros y están sujetas a una serie de reglas especiales que sen encuentran en la p. 82. La mayor parte de las máquinas de batalla, que no todas, cuentan con la ventaja Construcción (**Construct**) y no se consideran modelos vivos.
+Las máquinas de batalla (battle engines) incluyen potentes armas creadas para fines bélicos. Son modelos independientes que se alzan sobre bases enormes (120 mm), pero no se consideran modelos guerreros y están sujetas a una serie de reglas especiales que sen encuentran en la p. 82. La mayor parte de las máquinas de batalla, que no todas, cuentan con la ventaja Construcción ![Construcción][Construct SKILL] (**Construct**) y no se consideran modelos vivos.
 
 ### Unidades
 
@@ -84,13 +84,15 @@ Cada unidad está liderada por un comandante de unidad (**Unit Commander**), que
 Los agregados (**attachments**) son soldados que pueden unirse a las diferentes unidades. Existen los agregados de mando (**command attachment**) así como los diferentes agregados armamentísticos (**weapon attachments**). Una unidad puede agregar como máximo un agregado de mando y hasta tres armamentísticos. Los agregados son reconocibles gracias a la regla Agregado ([**Attachment**][attachment]) que especifica a qué unidad o unidades pueden agregarse.
 
 [attachment]: /docs/terminos#attachment
+[battle-engines]: /docs/terminos#battle-engines
 [basic-models]: /docs/terminos#basic-models
 [battlegroup]: /docs/terminos#battlegroup
 [frenzy]: /docs/terminos#frenzy
 [independent-models]: /docs/terminos#independent-models
-[living]: /docs/terminos#living
+[living-models]: /docs/terminos#living-models
 [power-attacks]: /docs/terminos#power-attacks
 [construct]: /docs/terminos#construct
+[warrior-models]: /docs/terminos#warrior-models
 
 [Construct SKILL]: /img/card-icons/48px-Construct_symbol.jpg
-[Officer]: /img/card-icons/48px-Construct_symbol.jpg
+[Officer]: /img/card-icons/48px-Officer_symbol.jpg

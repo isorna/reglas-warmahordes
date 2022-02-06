@@ -47,7 +47,7 @@ sidebar_position: 100
 * ![Sigilo][Stealth] Sigilo
 * ![Arma de cuerpo a cuerpo][Melee Weapon] Arma de cuerpo a cuerpo
 * ![Duro][Tough SKILL] Duro
-* ![No muerto][Undead] No muerto
+* ![No muerto][Undead SKILL] No muerto
 * ![Maestro de armas][Weapon Master] Maestro de armas
 
 [Advance Deployment]: /img/card-icons/48px-AD_symbol.jpg
@@ -92,5 +92,5 @@ sidebar_position: 100
 [Stealth]: /img/card-icons/48px-Stealth_symbol.jpg
 [Melee Weapon]: /img/card-icons/48px-Sword_icon.jpg
 [Tough SKILL]: /img/card-icons/48px-Tough_symbol.jpg
-[Undead]: /img/card-icons/48px-Undead_symbol.jpg
+[Undead SKILL]: /img/card-icons/48px-Undead_symbol.jpg
 [Weapon Master]: /img/card-icons/48px-Weapon_Master_symbol.jpg
