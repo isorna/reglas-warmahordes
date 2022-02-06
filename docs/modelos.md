@@ -37,7 +37,7 @@ Los *warjacks* se clasifican según al tamaño de sus bases: un warjack ligero (
 
 Un modelo de tipo *warjack* está sujeto a una serie de reglas comunes a todos los *warjacks*, no listadas en las estadísticas de las cartas. Las reglas se encuentran en [Reglas especiales de *Warjacks*](/docs/reglas-especiales-de-warjacks).
 
-### Warlocks
+### Warlocks
 
 En HORDES, la figura análoga al *Warcaster* es el *Warlock*: comandante de grandes bestias y feroces ejércitos. Un *Warlock* es un poderoso hechicero, chamán o druida con la capacidad de controlar telepáticamente un grupo de bestias de guerra. El *Warlock* es un rival letal con grandes dotes de combate cuerpo a cuerpo y profundos conocimientos para lanzar conjuros. Un grupo de batalla ([**battlegroup**][battlegroup]) está compuesto por el *Warlock*, liderando dicho grupo, y las bestias de guerra que controla. El Warlock solo podrá manejar aquellas bestias que formen parte de su grupo de batalla.
 
@@ -49,7 +49,7 @@ Por lo general, los *Warlocks* son modelos independientes, pero pueden liderar s
 
 Las bestias de guerra o *warbeasts* son valientes criatura sobre el campo de batalla y son realmente leales a las órdenes de los Warlocks que las controlan. De diversos tamaños y formas, proceden de distintas áreas y ecosistemas. Son más inteligentes que el resto de animales, pero más primitivas y salvajes que el resto de las razas que luchan en la región de Immoren. Cada ejército de HORDES alberga distintos tipos de bestias reclutadas y controladas con técnicas específicas. Una vez la lucha ha comenzado, la furia desatada durante el ataque de estas bestias fortalece al Warlock que las comanda y da lugar a una sinergia casi imparable.
 
-A ojos de las regiones civilizadas, las bestias de guerra son abominables monstruos capaces de masacrar y despedazar a sus enemigos mejor armados. Muchas de las *warbeasts* potencian sus ya formidables capacidades naturales incorporando armaduras pesadas y las mejores armas a su alcance, con las que se han entrenado duramente para enfrentarse lo más preparadas posible a guerreros y otros enemigos. Aunque puedan actuar de forma autónoma, el control que un Warlock ejerce sobre ellas anulará su individualidad excepto para situaciones de frenesí ([**Frenzy**](frenzy)).
+A ojos de las regiones civilizadas, las bestias de guerra son abominables monstruos capaces de masacrar y despedazar a sus enemigos mejor armados. Muchas de las *warbeasts* potencian sus ya formidables capacidades naturales incorporando armaduras pesadas y las mejores armas a su alcance, con las que se han entrenado duramente para enfrentarse lo más preparadas posible a guerreros y otros enemigos. Aunque puedan actuar de forma autónoma, el control que un Warlock ejerce sobre ellas anulará su individualidad excepto para situaciones de frenesí ([**Frenzy**][frenzy]).
 
 Las bestias de guerra se clasifican según el tamaño de sus bases: una warbeast menor (*Lesser* warbeast) cuenta con una base pequeña (small base) de 30 mm, una bestia de guerra ligera (*Light* warbeast) presenta una base mediana (medium base) de 40 mm, una bestia de guerra pesada (*Heavy* warbeast) tiene un base grande (large base) de 50 mm y una warbeast gargantúa (Gargantuan) cuenta con una base enorme (huge base) de 120 mm.
 
